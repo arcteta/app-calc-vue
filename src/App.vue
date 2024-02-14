@@ -56,11 +56,6 @@ const calculateResult = () => {
 
 
 <style>
-/* .roboto-regular {
-  font-family: "Roboto", sans-serif;
-  font-weight: 400;
-  font-style: normal;
-} */
 
 .title-container {
   font-family: "Roboto",sans-serif;
