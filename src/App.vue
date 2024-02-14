@@ -94,7 +94,8 @@ h1 {
   border: 1px solid #ccc;
   background-color: #f0f0f0;
   font-family: "Roboto",sans-serif;
-  color: black;
+  color: slateblue;
+  font-weight: bold;
   cursor: pointer;
 }
 
